@@ -3,7 +3,7 @@
     <appName>GEA5</appName>
     <appDescription>LEKTOR-GEA5</appDescription>
     <packageName>it.lektor.gea5</packageName>
-    <versionCode>1000</versionCode>  
+    <versionCode>2000</versionCode>  
     <versionName>2.00.00</versionName>  
     <forceUpdate>false</forceUpdate>  
     <autoUpdate>true</autoUpdate>
