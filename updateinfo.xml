@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<updateInfo>
+    <appName>GEA5</appName>
+    <appDescription>LEKTOR-GEA5</appDescription>
+    <packageName>it.lektor.gea5</packageName>
+    <versionCode>1000</versionCode>  
+    <versionName>1.00.00</versionName>  
+    <forceUpdate>false</forceUpdate>  
+    <autoUpdate>true</autoUpdate>
+    <apkUrl>http://192.168.1.40:8000/Test/app-release-v1.0.apk</apkUrl>
+    <updateTips>
+        <default>update tips test</default>
+        <en>update tips test</en>
+        <zh>升级提示</zh>
+        <zh_CN>升级提示</zh_CN>
+        <zh_TW>升级提示</zh_TW>
+        <zh_HK>升级提示</zh_HK>
+    </updateTips>
+</updateInfo>
