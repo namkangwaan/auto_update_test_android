@@ -5,7 +5,7 @@
     <packageName>it.lektor.gea5</packageName>
     <versionCode>2000</versionCode>  
     <versionName>2.00.00</versionName>  
-    <forceUpdate>true</forceUpdate>  
+    <forceUpdate>false</forceUpdate>  
     <autoUpdate>true</autoUpdate>
     <apkUrl>https://github.com/namkangwarn/auto_update_test_android/raw/master/app-release-v2.0.apk</apkUrl>
     <updateTips>
