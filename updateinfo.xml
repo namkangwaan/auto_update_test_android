@@ -9,8 +9,8 @@
     <autoUpdate>true</autoUpdate>
     <apkUrl>https://github.com/namkangwarn/auto_update_test_android/raw/master/app-release-v1.0.apk</apkUrl>
     <updateTips>
-        <default>update tips test</default>
-        <en>update tips test</en>
+        <default>update tips</default>
+        <en>update tips</en>
         <zh>升级提示</zh>
         <zh_CN>升级提示</zh_CN>
         <zh_TW>升级提示</zh_TW>
