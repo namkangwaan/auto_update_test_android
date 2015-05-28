@@ -7,7 +7,7 @@
     <versionName>1.00.00</versionName>  
     <forceUpdate>false</forceUpdate>  
     <autoUpdate>true</autoUpdate>
-    <apkUrl>http://192.168.1.40:8000/Test/app-release-v1.0.apk</apkUrl>
+    <apkUrl>https://github.com/namkangwarn/auto_update_test_android/raw/master/app-release-v1.0.apk</apkUrl>
     <updateTips>
         <default>update tips test</default>
         <en>update tips test</en>
