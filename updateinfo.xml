@@ -3,11 +3,11 @@
     <appName>GEA5</appName>
     <appDescription>LEKTOR-GEA5</appDescription>
     <packageName>it.lektor.gea5</packageName>
-    <versionCode>2000</versionCode>  
-    <versionName>2.00.00</versionName>  
+    <versionCode>1000</versionCode>  
+    <versionName>1.00.00</versionName>  
     <forceUpdate>false</forceUpdate>  
     <autoUpdate>true</autoUpdate>
-    <apkUrl>https://github.com/namkangwarn/auto_update_test_android/raw/master/app-release-v3.0.apk</apkUrl>
+    <apkUrl>https://github.com/namkangwarn/auto_update_test_android/raw/master/app-release-v1.0.apk</apkUrl>
     <updateTips>
         <default>update tips</default>
         <en>update tips</en>
