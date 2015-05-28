@@ -1,0 +1,20 @@
+{
+    "updateInfo":{
+        "appName": "GEA5",
+        "appDescription": "LEKTOR-GEA5",
+        "packageName": "it.lektor.gea5",
+        "versionCode": "2000",
+        "versionName": "2.00.00",
+        "forceUpdate": false,
+        "autoUpdate": true,
+        "apkUrl": "http://192.168.1.40:8000/Test/app-release-v2.0.apk",
+        "updateTips": {
+                "default": "update tips",
+                "en":  "update tips",
+                "zh":  "升级提示",
+                "zh_CN": "升级提示",
+                "zh_TW": "升級提示",
+               " zh_HK": "升级提示",
+        }
+    }
+}
