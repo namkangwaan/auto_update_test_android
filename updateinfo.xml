@@ -6,7 +6,7 @@
     <versionCode>2000</versionCode>  
     <versionName>2.00.00</versionName>  
     <forceUpdate>true</forceUpdate>  
-    <autoUpdate>true</autoUpdate>
+    <autoUpdate>false</autoUpdate>
     <apkUrl>https://github.com/namkangwarn/auto_update_test_android/raw/master/app-release-v2.0.apk</apkUrl>
     <updateTips>
         <default>update tips</default>
